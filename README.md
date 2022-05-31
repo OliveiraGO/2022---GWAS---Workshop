@@ -10,7 +10,7 @@ The Workshop's roadmap:
 
 The subjects about step 1 and step 2 need the file "Presentation - GWAS - Guilherme Oliveira".
 
-The subjetcs about step 3 need the files: "PhenotypicData", "GenotypicData", "GenotypicMap" and "GWAS Script".
+The subjetcs about step 3 need the files: "PhenotypicData", "GenotypicData", "GenotypicMap" and "GWASscript".
 
 1) The files: "Presentation - GWAS - Guilherme Oliveira" and "PhenotypicData" were made and collected by Guilherme Oliveira.
 2) The files: "GenotypicData" and "GenotypicMap" were made and collected by Cristiano Mathias Zimmer.
